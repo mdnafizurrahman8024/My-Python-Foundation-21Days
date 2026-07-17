@@ -1,4 +1,4 @@
-# My-Python-Foundation-21Days
+# Python-Foundation-21-Days
 A 21-day coding challenge documenting my daily Python practice and progress on Google Colab . Dedicated to building consistency and practical coding habits.
 ## 📚 Topic Index
 ## File: python_practice_day_01 ( contents )
